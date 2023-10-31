@@ -27,4 +27,6 @@ public class AverageCalculator {
         double average = calculator.calculateAverage(10.0, 20.0, 30.0);
         System.out.println("Rata-rata dari 10.0, 20.0, dan 30.0 adalah: " + average);
     }
+
+    //tambah
 }
